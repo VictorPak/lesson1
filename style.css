@@ -1,0 +1,21 @@
+body{
+    background-color: cyan;
+    width: 1000px;
+    text-align: center;
+    border:solid 1px;
+    margin: 0 auto;
+}
+
+h1, h2{
+    font-family: 'Rubik', sans-serif;
+}
+p{
+    color: blueviolet;
+    font-size: 125%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+div ul {
+    list-style-type: none;
+}
